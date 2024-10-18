@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm [Sergio Aguilar]!
 
+Software Engineer with 5 years of experience in embedded software development, specializing in AUTOSAR Classic and Adaptive platforms. I have contributed to multiple OEM projects, primarily using C and C++ languages, with a focus on delivering robust and scalable solutions in the automotive industry.
+
 I'm a software developer specializing in C, C++, and system architectures. I'm passionate about building efficient and scalable systems.
 
 - 🌱 I’m currently learning: Distributed Systems, Advanced Algorithms and AUTOSAR Adpative
