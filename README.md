@@ -17,14 +17,6 @@ I'm a software developer specializing in C, C++, and system architectures. I'm p
 - **ARCHITECTURES**: AUSTOSAR CLASSIC
 - **Tools**: Docker, Git, Canalizer, Canoe, IBM DOORS Requirement managment, ISystem debugger, VCAST, JIRA
 - **Platforms**: Linux, Windows
-
----
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioAguilarL&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAguilarL&layout=compact&theme=tokyonight)
-
 ---
 
 ### 🚀 Featured Projects
